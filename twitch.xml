@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <tv generator-info-name="xTeVe" source-info-name="xTeVe - 2.2.0">
-    <channel id="lofi">
+    <channel id="music.channel.1">
         <display-name>Lofi 24/7 </display-name>
         <display-name>Lofi 24/7 HD</display-name>
         <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="270" width="360"></icon>
     </channel>
-    <programme channel="lofi" >
+    <programme channel="music.channel.1" >
         <title lang="fr">Musique Lofi 24/7</title>
         <desc lang="fr">Stream de musique Lofi</desc>
         <category lang="en">Music</category>
