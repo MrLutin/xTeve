@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 CUID="1001" tvg-id="music.channel.1" tvg-name="Twitch" tvg-logo="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" group-title="Music", Lofi 24/7 HD
 https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CqUEkKLpqg5TcsY1wZARAqTrYSKUsZJhmgK5FfGhF0GX-z_DV9zCneGMdBFbugMycBL_spTz4OBaBLRfOw2bSwASMxZN7Q8Kd5UpsxDhpM_FDzki9c49O2tf5AlJwgAuctzZg7olE8B29ocjn5vo9wWAR9GtOlwutBPL9l-H9MreGSAh_fiH1K-Dr_esMvUmCy2EF8TFDuNNCfB-R3ajuK1I3JwEySnr-wISkA27hnuphHMcU8-nP51VzI6MN6kyIW-cLj0yO4x0C2blGMj86Q9cxH8kqRIHJxqqOhr_-OTLUeb4ug-Q42lyaIA4cSPB7qtQNyL2drddqyBb4Ceebzr7NXFH9t_IHczlCznXBOgf2PLP1LqKSFvAdghAemg1igC5XoFriMzx8xZeFDMEkVJnuNjzDZFDIpyu2kN-CwS0eQ1nvDMnOEnj4h9zKH6QSz_BJCfRK2Hg8hoIDBLkBFrGDuI3eN-2k67qZ8zZt8SvMmL2eUZyokgom-dZEb1USC08PkPA7RqQ6ocmRI9uL9wCGFTrGcOcqhwLj380UjE6A1SfDw96S_vuKIM1tpUBRsdV7jphzSc6DLDterdalgNoier-PGr1kvUyGSdqDQsrYzBTYUA8VhGcv0ZLcKRFIdyRV_f-hSsN2vbT4UO1pL7PZ94ui9xbShxF4rdNygCV821Gj1cFutdbnGOylXfFHrSkxKwGnMmzQRVpUqd_usZdno2gGTU2GgwCAM5s0JWyTUZpERsgASoJZXUtd2VzdC0yMOYE.m3u8
-#EXTINF:-1,CUID="1000" tvg-id="game.channel.1" tvg-name="Private RTMP"
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
