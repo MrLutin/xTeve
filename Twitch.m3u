@@ -3,5 +3,5 @@
 https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CqUEkKLpqg5TcsY1wZARAqTrYSKUsZJhmgK5FfGhF0GX-z_DV9zCneGMdBFbugMycBL_spTz4OBaBLRfOw2bSwASMxZN7Q8Kd5UpsxDhpM_FDzki9c49O2tf5AlJwgAuctzZg7olE8B29ocjn5vo9wWAR9GtOlwutBPL9l-H9MreGSAh_fiH1K-Dr_esMvUmCy2EF8TFDuNNCfB-R3ajuK1I3JwEySnr-wISkA27hnuphHMcU8-nP51VzI6MN6kyIW-cLj0yO4x0C2blGMj86Q9cxH8kqRIHJxqqOhr_-OTLUeb4ug-Q42lyaIA4cSPB7qtQNyL2drddqyBb4Ceebzr7NXFH9t_IHczlCznXBOgf2PLP1LqKSFvAdghAemg1igC5XoFriMzx8xZeFDMEkVJnuNjzDZFDIpyu2kN-CwS0eQ1nvDMnOEnj4h9zKH6QSz_BJCfRK2Hg8hoIDBLkBFrGDuI3eN-2k67qZ8zZt8SvMmL2eUZyokgom-dZEb1USC08PkPA7RqQ6ocmRI9uL9wCGFTrGcOcqhwLj380UjE6A1SfDw96S_vuKIM1tpUBRsdV7jphzSc6DLDterdalgNoier-PGr1kvUyGSdqDQsrYzBTYUA8VhGcv0ZLcKRFIdyRV_f-hSsN2vbT4UO1pL7PZ94ui9xbShxF4rdNygCV821Gj1cFutdbnGOylXfFHrSkxKwGnMmzQRVpUqd_usZdno2gGTU2GgwCAM5s0JWyTUZpERsgASoJZXUtd2VzdC0yMOYE.m3u8
 
 
-#EXTINF:-1,CUID="999" tvg-id="game.channel.1" tvg-name="Private RTMP" tvg-logo=""
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1,CUID="1000" tvg-id="game.channel.1" tvg-name="Private RTMP" tvg-logo=""
+https://rtmp.arcadia-network.com/hls/teste.m3u8
