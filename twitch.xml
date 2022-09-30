@@ -19,10 +19,6 @@
         <new></new>
         <live></live>
     </programme>
-    
-    
-    
-    
     <channel id="game.channel.1">
         <display-name>Gaming stream</display-name>
         <display-name>Gaming Stream HD</display-name>
@@ -32,6 +28,25 @@
         <title lang="fr">Stream de jeux</title>
         <desc lang="fr">Sream privé</desc>
         <category lang="en">Game</category>
+        <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="720" width="480"></icon>
+        <video>
+            <quality>HDTV</quality>
+        </video>
+        <audio>
+            <stereo>Stereo</stereo>
+        </audio>
+        <new></new>
+        <live></live>
+    </programme>
+     <channel id="stream.channel.1">
+        <display-name>Arise TV</display-name>
+        <display-name>Arise TV HD</display-name>
+        <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="270" width="360"></icon>
+    </channel>
+    <programme channel="stream.channel.1" >
+        <title lang="fr">Arise Stream Caritatif</title>
+        <desc lang="fr">Sream caritatif</desc>
+        <category lang="en">Stream</category>
         <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="720" width="480"></icon>
         <video>
             <quality>HDTV</quality>
