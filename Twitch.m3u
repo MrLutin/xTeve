@@ -4,4 +4,4 @@ https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CqUEkKLpqg5TcsY1wZARAqTrYSK
 
 
 #EXTINF:-1,CUID="1000" tvg-id="game.channel.1" tvg-name="Private RTMP" tvg-logo=""
-https://rtmp.arcadia-network.com/hls/teste.m3u8
+http://rtmp-hls:8080/hls/teste.m3u8
