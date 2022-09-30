@@ -41,13 +41,13 @@
      <channel id="stream.channel.1">
         <display-name>Arise TV</display-name>
         <display-name>Arise TV HD</display-name>
-        <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="270" width="360"></icon>
+        <icon src="https://scontent.fymy1-1.fna.fbcdn.net/v/t1.6435-9/72719121_2797522470306157_112408665754959872_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=E15ZGqyu1_kAX8RgKMJ&_nc_ht=scontent.fymy1-1.fna&oh=00_AT-Lee65I6QHOo26V0Rds11UtluyPokQFZVGmZHlqLjfAw&oe=635CECEA" height="270" width="360"></icon>
     </channel>
     <programme channel="stream.channel.1" >
-        <title lang="fr">Arise Stream Caritatif</title>
+        <title lang="fr"Arise - Diffuseurs Caritatifs</title>
         <desc lang="fr">Sream caritatif</desc>
-        <category lang="en">Stream</category>
-        <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="720" width="480"></icon>
+        <category lang="en">Broadcaster</category>
+        <icon src="https://scontent.fymy1-2.fna.fbcdn.net/v/t1.6435-9/71865878_2797514636973607_5030865115595931648_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=TWTnJ9YA1HQAX9aukvX&_nc_ht=scontent.fymy1-2.fna&oh=00_AT_yQ5a2tIfTjwExTE_6MsZih_0Vf1kHkFbFLZ25OwP4NA&oe=635CC504" height="720" width="480"></icon>
         <video>
             <quality>HDTV</quality>
         </video>
