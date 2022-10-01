@@ -3,7 +3,7 @@
     <channel id="music.channel.1">
         <display-name>ChilHop Music</display-name>
         <display-name>ChilHop Music</display-name>
-        <icon src="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n" height="270" width="360"></icon>
+        <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/916a1c22-8aee-4100-a42b-87bc886ab130-profile_image-70x70.png" height="270" width="360"></icon>
     </channel>
     <programme channel="music.channel.1" >
         <title lang="fr">Musique Lofi 24/7</title>
