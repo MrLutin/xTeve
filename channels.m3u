@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 CUID="1001" tvg-id="music.channel.1" tvg-name="Chill Hop Music" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/916a1c22-8aee-4100-a42b-87bc886ab130-profile_image-70x70.png" group-title="Music"
+#EXTINF:-1, tvg-id="music.channel.1" tvg-name="Chill Hop Music" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/916a1c22-8aee-4100-a42b-87bc886ab130-profile_image-70x70.png" group-title="Music"
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CqwEzuduf0pkJAHjwdVvRYtElVkHF2VSjOugtPxQtQqfUn4bsJG6-PT_MtLi6MPPf6rVtQfqSt1lmz7x9NfS-WLMm_Owzw-kJcY0wbVmGvh1dig_c9tcoTYlG3tH7W9dKmnOnUVq4GBdrDbfDU1LAUd_7uIG8msmw5i7DS_ppZUbRAXbqEYdZYGo8vIu4iR7dvibfK1KGHY6stlkvXetXY1evVsp4x-WzQpfxayg7prD4ARQJuOwbZ_u8w5roaLX7AkVb0bS54jT3odShEKX7zckic4fFR87eusAPco2liIfEdKpYuvGrQeVek_Fp1AOB_WVQ069QZE0Vx_v1x4sVOBhm3kf6vdNY08leBrjZD_qbta5XnitFxFjJMKQvTZ7M6hsNEBWWZCBEYGTXmR3uvkGxeu8a-c9HT9RD5xBZNUkiIODs_Ks8Hn870WPeWlBqrUGKjm1NovueTmf0NSLeJS7qeUs9km2FaGbMswKsTyVNu02eIdf8aReztjm4AJGsfvkeD9nzSP99sQ6LL6L6zoH6JasTmzCckdX4GS4Y1Nz_dUW57O6rbWHyPypbbtFYLw6M0jqbldyutXNKZ5rXjhOSHJIraXucMxnG-norMlf6iLsp49RdYO18UXPtCsbKWULpe27CN8VLqRVZkGYADiezU9guFz9sb5yioYruSqEVmucF1g158aFp1u0eEOk5GQDzN7oYzhiuhHamc3j61rPpC0hQv1imk272SmAFBoMEx3xKgH46rk8A_K_IAEqCWV1LXdlc3QtMjDnBA.m3u8
 
-#EXTINF:-1,CUID="1000" group-title="Gaming" tvg-id="game.channel.1" tvg-name="Testing Stream" tvg-logo="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n"
-http://rtmp.arcadia-network.com/hls/test.m3u8
+#EXTINF:-1, group-title="Testing" tvg-id="test.channel.1" tvg-name="Testing Stream" tvg-logo=""
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+
+#EXTINF:-1, group-title="Gaming" tvg-id="game.channel.1" tvg-name="MrLutin Stream" tvg-logo="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n"
+https://rtmp.arcadia-network.com/hls/test.m3u8
+
+#EXTINF:-1, group-title="Testing" tvg-id="test.channel.2" tvg-name="Testing Dolby Vision Stream" tvg-logo=""
+http://media.developer.dolby.com/DolbyVision_Atmos/profile5_HLS/master.m3u8
