@@ -6,7 +6,7 @@ https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CqwEzuduf0pkJAHjwdVvRYtElVk
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 
 #EXTINF:-1, group-title="Gaming" tvg-id="game.channel.1" tvg-name="MrLutin Stream" tvg-logo="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n"
-https://rtmp.arcadia-network.com/hls/test.m3u8
+https://stream.arcadia-network.com/live/testing.flv
 
 #EXTINF:-1, group-title="Testing" tvg-id="test.channel.2" tvg-name="Testing Dolby Vision Stream" tvg-logo=""
 http://media.developer.dolby.com/DolbyVision_Atmos/profile5_HLS/master.m3u8
