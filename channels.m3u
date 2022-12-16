@@ -3,4 +3,4 @@
 http://stream.arcadia-network.com/live/testing.flv
 
 #EXTINF:-1, group-title="Gaming" tvg-id="game.channel.1" tvg-name="MrLutin Stream" tvg-logo="https://imgs.search.brave.com/Ho7s2z720JLTHEXj__mVzufhhhmZgOyAZO-Ph7WdKB4/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NkbjEz/MC5waWNzYXJ0LmNv/bS8yOTM3MTIzMjkw/MTkyMTEucG5n"
-http://stream.arcadia-network.com/live/lutin.flv
+rtmp://stream.arcadia-network.com/live/lutin
