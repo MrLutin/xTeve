@@ -5,7 +5,7 @@ https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8
 #EXTINF:-1, tvg-id="news.channel.2" tvg-name="TVA"
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
-#EXTINF:-1, tvg-id="news.channel.1" tvg-name="Caillou"
+#EXTINF:-1, tvg-id="kids.channel.1" tvg-name="Caillou"
 https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, group-title="Gaming" tvg-id="game.channel.1" tvg-name="MrLutin Stream"
