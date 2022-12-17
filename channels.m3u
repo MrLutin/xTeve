@@ -18,4 +18,4 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
 #EXTINF:-1, group-title="Gaming" tvg-id="game.channel.1" tvg-name="MrLutin Stream"
-http://3.96.212.46/live/lutin/index.m3u8
+http://3.96.212.46:8001/live/lutin/index.m3u8
