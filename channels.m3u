@@ -22,3 +22,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62bdb7f0db2eb
 
 #EXTINF:-1, group-title="gaming" tvg-id="game.channel.1" tvg-name="MrLutin TV"
 http://192.168.2.46:8000/webtv/lutin/index.m3u8
+
+#EXTINF:-1, group-title="gaming" tvg-id="game.channel.1" tvg-name="MrLutin TV2"
+rtmp://192.168.2.46/webtv/lutin
