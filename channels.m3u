@@ -19,24 +19,3 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
 #EXTINF:-1, group-title="animation" tvg-id="anim.channel.1" tvg-name="South Park"
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62bdb7f0db2eb30007376d4d/master.m3u8
-
-#EXTINF:-1, group-title="gaming" tvg-id="game.channel.1" tvg-name="MrLutin TV"
-http://192.168.2.46:8000/webtv/lutin/index.m3u8
-
-#EXTINF:-1, group-title="gaming" tvg-id="game.channel.1" tvg-name="MrLutin TV2"
-rtmp://192.168.2.46/webtv/lutin
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave1.east.ca.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave2.east.ca.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 3
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave3.east.ca.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Crave 4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/crave4.east.ca.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC Presents
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/amc.on.demand.us.m3u8?checkedby:iptvcat.com
